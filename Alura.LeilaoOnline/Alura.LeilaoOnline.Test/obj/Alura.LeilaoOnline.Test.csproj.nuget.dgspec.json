@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/Alura.LeilaoOnline.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/Alura.LeilaoOnline.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/Alura.LeilaoOnline.Core.csproj",
+        "projectName": "Alura.LeilaoOnline.Core",
+        "projectPath": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/Alura.LeilaoOnline.Core.csproj",
+        "packagesPath": "/Users/igorjordanyrichticsilva/.nuget/packages/",
+        "outputPath": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/igorjordanyrichticsilva/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/Alura.LeilaoOnline.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/Alura.LeilaoOnline.Test.csproj",
+        "projectName": "Alura.LeilaoOnline.Test",
+        "projectPath": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/Alura.LeilaoOnline.Test.csproj",
+        "packagesPath": "/Users/igorjordanyrichticsilva/.nuget/packages/",
+        "outputPath": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/igorjordanyrichticsilva/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/Alura.LeilaoOnline.Core.csproj": {
+                "projectPath": "/Users/igorjordanyrichticsilva/CursoTDDxUnit/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/Alura.LeilaoOnline.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.deps.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.runtimeconfig.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.runtimeconfig.dev.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.pdb
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Core.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Core.pdb
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.csprojAssemblyReference.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.csproj.CoreCompileInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.AssemblyInfoInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.AssemblyInfo.cs
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.csproj.CopyComplete
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Test/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.Test.pdb

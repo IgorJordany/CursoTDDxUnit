@@ -1,0 +1,9 @@
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.deps.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfo.cs
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb

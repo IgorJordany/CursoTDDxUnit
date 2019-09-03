@@ -1,0 +1,14 @@
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.deps.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.pdb
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Core.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/bin/Debug/netcoreapp2.2/Alura.LeilaoOnline.Core.pdb
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.dll
+/Users/igorjordanyrichticsilva/Documents/AprendendoCSharp/Alura.LeilaoOnline/Alura.LeilaoOnline.ConsoleApp/obj/Debug/netcoreapp2.2/Alura.LeilaoOnline.ConsoleApp.pdb
